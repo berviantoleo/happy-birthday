@@ -52,7 +52,7 @@
     "@babel/preset-react": "^7.16.7",
     "@types/react-swipeable-views": "^0.13.1",
     "@types/react-swipeable-views-utils": "^0.13.3",
-    "@typescript-eslint/eslint-plugin": "^5.15.0",
+    "@typescript-eslint/eslint-plugin": "^5.16.0",
     "@typescript-eslint/parser": "^5.16.0",
     "eslint": "^8.11.0",
     "eslint-plugin-jest": "^26.1.2",
