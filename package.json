@@ -56,6 +56,6 @@
     "@typescript-eslint/parser": "^5.36.1",
     "eslint": "^8.23.0",
     "eslint-plugin-jest": "^27.0.1",
-    "eslint-plugin-react": "^7.31.6"
+    "eslint-plugin-react": "^7.31.7"
   }
 }
