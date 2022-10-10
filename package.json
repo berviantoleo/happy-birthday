@@ -54,7 +54,7 @@
     "@types/react-swipeable-views-utils": "^0.13.4",
     "@typescript-eslint/eslint-plugin": "^5.39.0",
     "@typescript-eslint/parser": "^5.39.0",
-    "eslint": "^8.24.0",
+    "eslint": "^8.25.0",
     "eslint-plugin-jest": "^27.1.1",
     "eslint-plugin-react": "^7.31.9"
   }
