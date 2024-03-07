@@ -19,7 +19,7 @@
     "react-scripts": "5.0.1",
     "react-swipeable-views": "^0.14.0",
     "react-swipeable-views-utils": "^0.14.0",
-    "typescript": "^5.3.3",
+    "typescript": "^5.4.2",
     "web-vitals": "^3.5.2"
   },
   "scripts": {
