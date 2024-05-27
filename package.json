@@ -49,7 +49,7 @@
   },
   "devDependencies": {
     "@babel/core": "^7.24.6",
-    "@babel/preset-react": "^7.24.1",
+    "@babel/preset-react": "^7.24.6",
     "@types/react-swipeable-views": "^0.13.5",
     "@types/react-swipeable-views-utils": "^0.13.7",
     "@typescript-eslint/eslint-plugin": "^7.10.0",
