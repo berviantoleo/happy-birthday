@@ -48,7 +48,7 @@
     ]
   },
   "devDependencies": {
-    "@babel/core": "^7.26.8",
+    "@babel/core": "^7.26.9",
     "@babel/preset-react": "^7.26.3",
     "@types/react-swipeable-views": "^0.13.6",
     "@types/react-swipeable-views-utils": "^0.13.7",
