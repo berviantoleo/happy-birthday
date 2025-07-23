@@ -6,20 +6,9 @@
     "@emotion/react": "^11.14.0",
     "@emotion/styled": "^11.14.1",
     "@mui/icons-material": "^7.2.0",
-    "@mui/material": "^5.18.0",
-    "@testing-library/jest-dom": "^6.6.3",
-    "@testing-library/react": "^12.1.5",
-    "@testing-library/user-event": "^14.6.1",
-    "@types/jest": "^30.0.0",
-    "@types/node": "^24.1.0",
-    "@types/react": "^18.0.9",
-    "@types/react-dom": "^18.0.3",
-    "react": "^17.0.2",
-    "react-dom": "^17.0.2",
-    "react-scripts": "5.0.1",
-    "react-swipeable-views": "^0.14.0",
-    "react-swipeable-views-utils": "^0.14.0",
-    "typescript": "^5.8.3",
+    "@mui/material": "^7.2.0",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
     "web-vitals": "^5.0.3"
   },
   "scripts": {
@@ -28,12 +17,6 @@
     "lint": "eslint src/ --ext .js,.jsx,.ts,.tsx",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
-  },
-  "eslintConfig": {
-    "extends": [
-      "react-app",
-      "react-app/jest"
-    ]
   },
   "browserslist": {
     "production": [
@@ -50,12 +33,24 @@
   "devDependencies": {
     "@babel/core": "^7.28.0",
     "@babel/preset-react": "^7.27.1",
-    "@types/react-swipeable-views": "^0.13.6",
-    "@types/react-swipeable-views-utils": "^0.13.7",
-    "@typescript-eslint/eslint-plugin": "^8.38.0",
-    "@typescript-eslint/parser": "^8.38.0",
-    "eslint": "^8.57.1",
+    "@eslint/eslintrc": "^3.3.1",
+    "@eslint/js": "^9.31.0",
+    "@testing-library/dom": "^10.4.0",
+    "@testing-library/jest-dom": "^6.6.3",
+    "@testing-library/react": "^16.3.0",
+    "@testing-library/user-event": "^14.6.1",
+    "@types/jest": "^30.0.0",
+    "@types/node": "^24.1.0",
+    "@types/react": "^19.1.8",
+    "@types/react-dom": "^19.1.6",
+    "@typescript-eslint/eslint-plugin": "8.38.0",
+    "@typescript-eslint/parser": "8.38.0",
+    "eslint": "^9.31.0",
     "eslint-plugin-jest": "^29.0.1",
-    "eslint-plugin-react": "^7.37.5"
+    "eslint-plugin-react": "^7.37.5",
+    "globals": "^16.3.0",
+    "react-scripts": "5.0.1",
+    "typescript": "^5.8.3",
+    "typescript-eslint": "^8.38.0"
   }
 }
